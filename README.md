@@ -39,8 +39,8 @@ Churn has a direct impact on revenue in any subscription model. This dashboard a
 ---
 
 ### 2. Churn by Senior Citizen
--  Seniors churn at a slightly higher rate
--  Recommendation: Offer better support for older users
+-  Not-Seniors churn at a slightly higher rate
+-  Recommendation: Offer better support for Younger users
 
 ![Churn by Senior](https://github.com/nikhildevm/Customer_churn_tableau/blob/main/Churn%20By%20Senior.png?raw=true)
 
@@ -75,7 +75,7 @@ Churn has a direct impact on revenue in any subscription model. This dashboard a
 
 - Push annual contracts over month-to-month to reduce churn
 - Identify and intervene with new customers paying above-average charges
-- Improve digital literacy tools and support for seniors
+- Improve digital tools and support for non seniors
 - Consider bundling additional services like tech support and backup
 
 ---
